@@ -1,0 +1,37 @@
+type,lc,l1,l2,dl,duration,rep_rate,average_power,gain_medium,host,article,year,note,pulse_energy
+Pulse,1825,1810,1840,30,0.36,17500,0.00024,Tm,silica,"Nelson et al., APL 67, 19",1995,osc. 最初のTmの超短パルス。,1.37E-011
+Pulse,1975,1950,2000,50,0.294,41400,0.178,Tm,silica,"Engelbrecht et al., OL 33, 690 ",2008,osc. 高いパルスエネルギー。,4.3E-009
+Pulse,1932,1925,1940,15,1.3,37000,0.0034,Tm,silica,"Solodyankin et al., OL 33, 1336",2008,osc. carbon nanotubeでパルス化。,9.19E-011
+Pulse,1975,1930,2005,75,0.173,41400,0.167,Tm,silica,"Haxsen et al., OE 16, 20471",2008,osc.,0.000000004
+Pulse,1980,1970,1990,20,1.5,13200,0.01,Tm,silicate,"Wang et al., OL 34, 2616",2009,osc. Silicateで高濃度添加≒アクティブファイバの短縮。,7.576E-010
+Pulse,1985,1975,1995,20,2.6,2500,0.025,Tm,silica,"Yang et al., OE 20, 5683",2012,osc.,0.00000001
+Pulse,1927,1917,1941,24,0.482,19700,0.0132,Tm,silica,"Haxsen et al., OL 37, 1014",2012,osc. 正分散ファイバーとSESAM使用。,6.701E-010
+Pulse,1902,1800,1975,175,0.119,45400,0.0078,Tm,silica,"Wienke et al., OL 37, 2466",2012,osc. 正分散ファイバー使用。,1.717E-010
+Pulse,1870,1750,2000,250,0.045,67500,0.013,Tm,ZBLAN,"Nomura et al., OE 22, 12461",2014,osc. ZBLANガラスによる低分散ファイバー。,1.926E-010
+Pulse,1870,1720,2000,280,0.041,67500,0.036,Tm,ZBLAN,"Nomura et al., ASSL",2014,osc. 上の改良。,5.333E-010
+Pulse,1950,1880,2010,130,0.09,52000,0.188,Tm,ZBLAN,野村他、レーザー学会,2016,osc. クラッド励起。,3.6E-009
+Pulse,1980,1960,2000,40,0.22,37600,5.7,Tm,silica,"Haxsen et al., OL 35 2991",2010,amp. 普通のCPA。,1.516E-007
+Pulse,1985,1975,1995,20,0.82,2500,1.6,Tm,silica,"Yang et al., OE 20, 5683",2012,amp.,0.00000064
+Pulse,2024,2004,2060,56,0.91,2500,135,Tm,silica,"Wan et al., OE 21, 1798",2013,amp. 全ファイバー型？,0.000054
+Pulse,2010,2000,2025,25,0.79,30800,78,Tm,silica,"Wan et al., OE 21, 1798",2013,amp. 上と同グループ。分散補償をファイバーの代わりにFBGで。,0.0000025
+Pulse,2035,2025,2045,20,0.37,10400,0.71,Tm,silica,"Rudy et al., J. Lightwave Technol. 31, 1809",2013,amp. 全ファイバー型。,6.83E-008
+Pulse,1965,1955,1975,20,0.69,49100,241,Tm,silica,"Stutzki et al., OL 39, 4671",2014,amp. PCFによる二段階増幅。論文では圧縮後で31uJと言っているが、一桁おかしい？,0.0000049
+Pulse,1910,1880,1930,50,0.36,200,57,Tm,silica,"Stutzki et al., OL 39, 4671",2014,amp. PCFによる三段階増幅。AOMで繰り返し周波数低減。パルスエネルギー最大？,0.000285
+Pulse,1920,1880,1960,80,0.15,67500,4.5,Tm,ZBLAN,野村他、レーザー学会,2016,amp. ZBLANファイバーによる増幅。,6.67E-008
+Pulse,2020,2000,2050,50,0.3,100,1.5,Tm,silica,"Andrew Sims et al., OL 38, 121",2013,amp. シードは（Erの？）ラマン光源。パルスが汚い。,0.0000152
+Pulse,2020,1980,2125,145,0.135,100000,0.67,Tm/Ho,silica,"Hoogland, OE 21, 31390",2013,amp. シードはErを高非線形ファイバーに入れたSC光源。,6.7E-009
+Pulse,2082,2080,2085,5,0.89,15700,0.046,Ho,silica,"Chamorovskiy et al., OL 37, 1448",2012,モード同期発振器。,2.9E-009
+Pulse,2070,2030,2110,80,0.16,35000,0.04,Ho,silica,"Li et al., OL 39, 6859",2014,モード同期発振器。なお、左はあくまで共振器からの出力で、この後非線形でさらにパルス幅短縮。,1.1E-009
+CW,2040,,,0,,,885,Tm,silica,"Moulton et al., IEEE JSTQE 15, 85",2009,マルチモード。共振器から直接の出力。,
+CW,2040,,,0,,,608,Tm,silica,"Goodno et al., OL 34, 1204",2009,シングルモード（ＬＭＡファイバー）。,
+CW,2045,,,0,,,1000,Tm,silica,"Ehrenreich et al., SPIE Photonics West",2010,ツリウムからの最大出力？,
+CW,1961,,,0,,,15,Tm,silica,"Gaida et al., OL 37, 4513",2012,PCF,
+CW,1860,,,0,,,52,Tm,silica,"Jansen et al., OL 37, 4546",2012,PCF,
+CW,2095,,,0,,,1.5,Ho,silica,"Jackson, IEEE JQE 42, 187",2006,,
+CW,2106,,,0,,,83,Ho/Tm,silica,"Jackson et al., OL 32, 241",2007,793nm励起。,
+CW,2052,,,0,,,10,Ho,silica/Al2O3,"Kurkov et al., OL 35, 490",2010,1.15um励起。,
+CW,2130,,,0,,,140,Ho,silica,"Hemming et al., Proc SPIE 8237",2012,,
+CW,2120,,,0,,,407,Ho,silica,"Hemming et al., CLEO",2013,ホルミウムからの最大出力？,
+CW,2790,2780,2800,20,,,2,Er,ZBLAN,"Zhu et al., OL 32, 2381",2007,波長可変。,
+CW,2800,,,0,,,24,Er,ZBLAN,"Tokita et al., OL 34, 3062",2009,,
+CW,2820,2760,2880,120,,,10,Er,ZBLAN,"Tokita et al., OL 35, 3943",2010,波長可変。,
