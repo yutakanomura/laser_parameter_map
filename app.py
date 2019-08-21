@@ -60,6 +60,7 @@ def make_figure(x, y, color, facet_col, facet_row):
     )
     fig.update_traces(marker=dict(size=12),
                       selector=dict(mode='markers'))
+    fig.update_layout(xaxis_type="log", yaxis_type="log")
     return fig
 
 if __name__ == '__main__':

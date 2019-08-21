@@ -1,4 +1,4 @@
-type,lc,l1,l2,dl,duration,rep_rate,average_power,gain_medium,host,article,year,note,pulse_energy
+type,lc_nm,l1_nm,l2_nm,dl_nm,pulse_width_ps,rep_rate_kHz,average_power_W,gain_medium,host,article,year,note,pulse_energy_J
 Pulse,1825,1810,1840,30,0.36,17500,0.00024,Tm,silica,"Nelson et al., APL 67, 19",1995,osc. 最初のTmの超短パルス。,1.37E-011
 Pulse,1975,1950,2000,50,0.294,41400,0.178,Tm,silica,"Engelbrecht et al., OL 33, 690 ",2008,osc. 高いパルスエネルギー。,4.3E-009
 Pulse,1932,1925,1940,15,1.3,37000,0.0034,Tm,silica,"Solodyankin et al., OL 33, 1336",2008,osc. carbon nanotubeでパルス化。,9.19E-011
